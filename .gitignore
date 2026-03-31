@@ -1,2 +1,12 @@
-*.o
+# Ejecutables de Windows
+*.exe
+*.out
+*.app
+
+# Archivos de compilación específicos
 main
+programa22
+22
+
+# Carpeta de configuración de VS Code (opcional, pero recomendado)
+.vscode/
